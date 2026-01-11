@@ -1,7 +1,7 @@
 spriteTypes = {
 	
 	spriteType = {
-		name = "GFX_portrait_RFN_character"
+		name = "GFX_portrait_SOV_iosif_stalin"
 		texturefile = "gfx/flags/leaders/RFN/Portrait_Soviet_Joseph_Stalin.dds"
 	}
 }

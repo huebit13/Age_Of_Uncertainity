@@ -1,0 +1,4 @@
+RFN = {
+    color = rgb { 58 59 65 }
+    color_ui = rgb { 58 59 65 }
+}
