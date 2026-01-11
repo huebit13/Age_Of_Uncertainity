@@ -1,0 +1,24 @@
+capital = 219
+
+oob = "RFN_2018"
+
+set_convoys = 666
+set_research_slots = 4
+
+set_technology = {
+	synth_oil_experiments = 1
+}
+
+set_politics = {
+	ruling_party = communism
+	last_election = "1933.7.1"
+	election_frequency = 48
+	elections_allowed = no
+}
+set_popularities = {
+	democratic = 10
+	fascism = 2
+	communism = 88
+}
+
+recruit_character = RFN_leader
